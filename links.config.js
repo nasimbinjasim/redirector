@@ -7,5 +7,6 @@ module.exports = {
   telegram: "https://t.me/nasimbinjasim",
   fb: "https://facebook.com/nasimbinjasim",
   link: "https://linktr.ee/nasimbinjasim",
+  send: "https://tally.so/r/A7LgvN",
   // add more: slug: "https://destination-url.com"
 };
