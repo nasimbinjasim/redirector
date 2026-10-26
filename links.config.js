@@ -8,5 +8,6 @@ module.exports = {
   fb: "https://facebook.com/nasimbinjasim",
   link: "https://linktr.ee/nasimbinjasim",
   send: "https://tally.so/r/A7LgvN",
+  inbox: "https://app.notion.com/p/nasimbinjasim/Inbox-6e765a33001043d3af3db1958e3628fc",
   // add more: slug: "https://destination-url.com"
 };
